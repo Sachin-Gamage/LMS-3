@@ -1,0 +1,7 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/Saching/Downloads/backend/LibraryManagementSystem/conf/logback.xml,/Users/Saching/Downloads/backend/LibraryManagementSystem/target/scala-2.12/classes/logback.xml)
+[debug] 	(/Users/Saching/Downloads/backend/LibraryManagementSystem/conf/application.conf,/Users/Saching/Downloads/backend/LibraryManagementSystem/target/scala-2.12/classes/application.conf)
+[debug] 	(/Users/Saching/Downloads/backend/LibraryManagementSystem/conf/evolutions,/Users/Saching/Downloads/backend/LibraryManagementSystem/target/scala-2.12/classes/evolutions)
+[debug] 	(/Users/Saching/Downloads/backend/LibraryManagementSystem/conf/evolutions/default,/Users/Saching/Downloads/backend/LibraryManagementSystem/target/scala-2.12/classes/evolutions/default)
+[debug] 	(/Users/Saching/Downloads/backend/LibraryManagementSystem/conf/evolutions/default/1.sql,/Users/Saching/Downloads/backend/LibraryManagementSystem/target/scala-2.12/classes/evolutions/default/1.sql)
+[debug] 	(/Users/Saching/Downloads/backend/LibraryManagementSystem/conf/routes,/Users/Saching/Downloads/backend/LibraryManagementSystem/target/scala-2.12/classes/routes)
